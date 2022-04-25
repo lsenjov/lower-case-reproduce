@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lower-case": "^2.0.2",
+    "shadow-cljs": "^2.18.0"
+  }
+}

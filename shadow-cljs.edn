@@ -1,0 +1,6 @@
+{:builds
+   {:main {:asset-path "/js/main"
+           :modules {:main {:init-fn lower-case.core/init!}}
+           :output-dir "output/"
+           :target :browser}}
+ :source-paths ["src"]}
